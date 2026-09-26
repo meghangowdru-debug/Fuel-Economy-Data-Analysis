@@ -22,10 +22,18 @@ The project covers data investigation, data assessment, cleaning, data-type corr
 Fuel-Economy-Data-Analysis/
 │
 ├── Fuel_Economy_Data/
+│   ├── Readme.md
+│   ├── all_alpha_08.csv
+│   ├── all_alpha_18.csv
+│   ├── clean_08.csv
+│   ├── clean_18.csv
+│   ├── combined_dataset.csv
+│   └── data_08_v1.csv ... data_18_v4.csv
+│
 ├── Data Analysis with Fuel Economy Data.ipynb
 ├── Description of economy fuel data.txt
 ├── Green Vehicle Guide Documentation.pdf
-└── README.md
+└── Readme.md
 ```
 
 ---

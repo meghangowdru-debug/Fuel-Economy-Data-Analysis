@@ -16,6 +16,17 @@ The analysis works with two datasets:
 The project covers data investigation, data assessment, cleaning, data-type correction, exploratory visualization, dataset merging, and answering analytical questions.
 
 ---
+## 📁 Project Structure
+
+Fuel-Economy-Data-Analysis/
+│
+├── Fuel_Economy_Data/
+├── Data Analysis with Fuel Economy Data.ipynb
+├── Description of economy fuel data.txt
+├── Green Vehicle Guide Documentation.pdf
+└── README.md
+
+---
 
 ## 🎯 Project Objectives
 

@@ -18,6 +18,7 @@ The project covers data investigation, data assessment, cleaning, data-type corr
 ---
 ## 📁 Project Structure
 
+```text
 Fuel-Economy-Data-Analysis/
 │
 ├── Fuel_Economy_Data/
@@ -25,6 +26,7 @@ Fuel-Economy-Data-Analysis/
 ├── Description of economy fuel data.txt
 ├── Green Vehicle Guide Documentation.pdf
 └── README.md
+```
 
 ---
 
